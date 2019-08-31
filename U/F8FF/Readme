@@ -1,0 +1,5 @@
+Private-use characters are assigned Unicode code points whose interpretation is not specified by this standard and whose use may be determined by private agreement among cooperating users. These characters are designated for private use and do not have defined, interpretable semantics except by private agreement.
+
+…
+
+No charts are provided for private-use characters, as any such characters are, by their very nature, defined only outside the context of this standard
